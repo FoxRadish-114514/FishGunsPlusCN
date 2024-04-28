@@ -1,0 +1,498 @@
+Items: {
+	CrystalPelter: {
+		DisplayName: Crystal Pelter
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Converts musket balls into Crystal bullets
+			'''
+	}
+
+	FleshRipper: {
+		DisplayName: Flesh Ripper
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Converts musket balls into Ichor bullets
+			'''
+	}
+
+	Goldy: {
+		DisplayName: Goldy
+		Tooltip:
+			'''
+			40% Chance to not consume ammo
+			Step one to greatness!
+			'''
+	}
+
+	Luminous: {
+		DisplayName: Luminous
+		Tooltip:
+			'''
+			60% Chance to not consume ammo
+			Pierce the heavens!
+			'''
+	}
+
+	SandShredder: {
+		DisplayName: Sand Shredder
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			No sand blocks here...
+			'''
+	}
+
+	ScabSplitter: {
+		DisplayName: Scab Splitter
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Converts musket balls into Cursed bullets
+			'''
+	}
+
+	SuperheatedMegashark: {
+		DisplayName: Superheated Megashark
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Converts musket balls into Explosive bullets
+			'''
+	}
+
+	TheDreadnaut: {
+		DisplayName: The Dreadnaut
+		Tooltip:
+			'''
+			50% Chance to not consume ammo
+			Converts musket balls into Blood
+			It smells like copper...
+			'''
+	}
+
+	BlastingShark: {
+		DisplayName: Blasting Shark
+		Tooltip: Holy shrimp!
+	}
+
+	VileSpitter: {
+		DisplayName: Vile Spitter
+		Tooltip: Ew, squishy
+	}
+
+	Genesis: {
+		DisplayName: Genesis
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			How many sharks are inside this thing?!
+			'''
+	}
+
+	ThePerforator: {
+		DisplayName: The Perforator
+		Tooltip: The blood runs down your arm
+	}
+
+	StingerFlinger: {
+		DisplayName: Stinger Flinger
+		Tooltip:
+			'''
+			33% Chance to not consume ammo
+			Converts musket balls into Stingers
+			'''
+	}
+
+	Voyager: {
+		DisplayName: Voyager
+		Tooltip:
+			'''
+			60% Chance to not consume ammo
+			Having a whale of a time yet?!
+			'''
+	}
+
+	BoneRattler: {
+		DisplayName: Bone Rattler
+		Tooltip: Aww it's wrapped around your arm
+	}
+
+	FlarefinThrower: {
+		DisplayName: Flarefin Thrower
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			Don't burn yourself!
+			'''
+	}
+
+	TheArapaima: {
+		DisplayName: The Arapaima
+		Tooltip:
+			'''
+			10% Chance to not consume ammo
+			Converts musket balls into High Velocity bullets
+			'''
+	}
+
+	Leviathan: {
+		DisplayName: Leviathan
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			They aren't ready for this firepower!
+			'''
+	}
+
+	Bobshot: {
+		DisplayName: Bobshot
+		Tooltip:
+			'''
+			Converts musket balls into Bouncy Bobbin' bullets
+			Bobbin' along
+			'''
+	}
+
+	BigBlue: {
+		DisplayName: Big Blue
+		Tooltip:
+			'''
+			Converts musket balls into High Velocity bullets
+			Right click to zoom out
+			'''
+	}
+
+	ThePan: {
+		DisplayName: The Pan
+		Tooltip: Converts musket balls into Bubble bullets
+	}
+
+	GoldySupreme: {
+		DisplayName: Goldy Supreme
+		Tooltip: All will suffer!
+	}
+
+	StormSpreader: {
+		DisplayName: Storm Spreader
+		Tooltip: Has a 33% chance to fire a spread of Vortex Rockets
+	}
+
+	RhokhFhihsh: {
+		DisplayName: Rhokh Fhihsh
+		Tooltip: Has a 50% chance to fire a burst of Heat Rays
+	}
+
+	Ribbongun: {
+		DisplayName: Ribbongun
+		Tooltip:
+			'''
+			50% Chance to not consume ammo
+			Innacurate but gets the job done
+			'''
+	}
+
+	RobinRifle: {
+		DisplayName: Robin Rifle
+		Tooltip:
+			'''
+			Converts musket balls into High Velocity bullets
+			Right click to zoom out
+			'''
+	}
+
+	MutantNightfish: {
+		DisplayName: Mutant Nightfish
+		Tooltip:
+			'''
+			50% Chance to not consume ammo
+			It hums softly
+			'''
+	}
+
+	LightMachineshark: {
+		DisplayName: Light Machineshark
+		Tooltip: 55% Chance to not consume ammo
+	}
+
+	TrueMutantNightfish: {
+		DisplayName: True Mutant Nightfish
+		Tooltip: 50% Chance to not consume ammo
+	}
+
+	TrueLightMachineshark: {
+		DisplayName: True Light Machineshark
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Light em' up!
+			'''
+	}
+
+	Gaia: {
+		DisplayName: Gaia
+		Tooltip:
+			'''
+			50% Chance to not consume ammo
+			Brimming with the power of Terra!
+			'''
+	}
+
+	PrismachineGun: {
+		DisplayName: Prismachine Gun
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Has a 25% chance to fire a Crystal Bullet
+			'''
+	}
+
+	DukeChainron: {
+		DisplayName: Duke Chainron
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Smells like bacon
+			'''
+	}
+
+	DoubleBarrelCod: {
+		DisplayName: Double Barrel Cod
+		Tooltip: Great for shooting Phrogs!
+	}
+
+	MiniSharkron: {
+		DisplayName: Mini Sharkron
+		Tooltip: 55% Chance to not consume ammo
+	}
+
+	WokeChainron: {
+		DisplayName: Woke Chainron
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Smells like crispy bacon
+			'''
+	}
+
+	ButterflyRifle: {
+		DisplayName: Butterfly Rifle
+		Tooltip: Fires Bubbles alongside Bullets
+	}
+
+	Shasta: {
+		DisplayName: Shasta
+		Tooltip: PEW!
+	}
+
+	Toxicrap: {
+		DisplayName: Toxicrap
+		Tooltip: Sprays toxic bubbles
+	}
+
+	FishboneBullet: {
+		DisplayName: Fishbone Bullet
+		Tooltip: Splits into 3 Bones
+	}
+
+	GnoseHelmet: {
+		DisplayName: Gnose Helmet
+		Tooltip: Great for impersonating Gnose! HOW DID YOU GET THIS?
+	}
+
+	GnoseClaws: {
+		DisplayName: Gnose Claws
+		Tooltip: Great for impersonating Gnose! HOW DID YOU GET THIS?
+	}
+
+	SpectreBullet: {
+		DisplayName: Spectre Bullet
+		Tooltip: Splits into 2 lost souls
+	}
+
+	Spectra: {
+		DisplayName: Spectra
+		Tooltip:
+			'''
+			55% Chance to not consume ammo
+			Converts musket balls into Spectre bullets
+			'''
+	}
+
+	Crapshot: {
+		DisplayName: Crapshot
+		Tooltip: Pew! Rock bullets!
+	}
+
+	BassRifle: {
+		DisplayName: Bass Rifle
+		Tooltip: We all start somewhere
+	}
+
+	ShroomBullet: {
+		DisplayName: Shroom Bullet
+		Tooltip: Splits into mushrooms on tile collision
+	}
+
+	Tentazooka: {
+		DisplayName: Tentazooka
+		Tooltip: What's a tenta missile? Never heard of that before!
+	}
+
+	YellowFrogfish: {
+		DisplayName: Yellow Frogfish
+		Tooltip:
+			'''
+			Grenade launcher variant
+			Slow but packs a punch
+			Don't blow yourself up!
+			'''
+	}
+
+	RedFrogfish: {
+		DisplayName: Red Frogfish
+		Tooltip:
+			'''
+			Rocket launcher variant
+			Slow but packs a punch
+			Don't blow yourself up!
+			'''
+	}
+
+	IronCrateLauncher: {
+		DisplayName: Iron Crate Launcher
+		Tooltip: Fires Iron crates
+	}
+
+	WoodenCrateLauncher: {
+		DisplayName: Wooden Crate Launcher
+		Tooltip: Fires Wooden crates
+	}
+
+	GoldenCrateLauncher: {
+		DisplayName: Golden Crate Launcher
+		Tooltip: Fires Golden crates
+	}
+
+	PearlwoodCrateLauncher: {
+		DisplayName: Pearlwood Crate Launcher
+		Tooltip: Fires Pearlwood crates
+	}
+
+	MythrilCrateLauncher: {
+		DisplayName: Mythril Crate Launcher
+		Tooltip: Fires Mythril crates
+	}
+
+	TitaniumCrateLauncher: {
+		DisplayName: Titanium Crate Launcher
+		Tooltip: Fires Titanium crates
+	}
+
+	Crater: {
+		DisplayName: Crater
+		Tooltip:
+			'''
+			Fires Celestial crates
+			A crate day for shootin'!
+			'''
+	}
+
+	Bubbler: {
+		DisplayName: Bubbler
+		Tooltip: It's overflowing!
+	}
+
+	FCIBurn: {
+		DisplayName: F.C.I. Burn
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			Burn them with a blizzard!
+			'''
+	}
+
+	Spitfire: {
+		DisplayName: Spitfire
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			These flames work underwater too!
+			'''
+	}
+
+	Goober: {
+		DisplayName: Goober
+		Tooltip:
+			'''
+			Converts musket balls Green Lasers
+			Smells like cooked fish
+			'''
+	}
+
+	Doober: {
+		DisplayName: Doober
+		Tooltip:
+			'''
+			40% Chance to not consume ammo
+			Converts musket balls Meteor Shots
+			It feels warm
+			'''
+	}
+
+	BrokenFish: {
+		DisplayName: Fossilised Hero Whale
+		Tooltip: ""
+	}
+
+	GoldenBlaze: {
+		DisplayName: Golden Blaze
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			Through the Fire and Piss!
+			'''
+	}
+
+	Immolator: {
+		DisplayName: Immolator
+		Tooltip:
+			'''
+			70% Chance to not consume gel
+			Burn their souls
+			'''
+	}
+
+	Shadowflame: {
+		DisplayName: Shadowflame
+		Tooltip: It feels cursed
+	}
+}
+
+Projectiles: {
+	FishboneBullet.DisplayName: Fishbone Bullet
+	SpectreBullet.DisplayName: Spectre Bullet
+	Nightround.DisplayName: Nightround
+	Nightscythe.DisplayName: Nightscythe
+	Truenightscythe.DisplayName: Truenightscythe
+	Truenightround.DisplayName: Truenightround
+	BubbleBullet.DisplayName: Bubble Bullet
+	BobbinBullet.DisplayName: Bobbin Bullet
+	Crapshot.DisplayName: Crapshot
+	ShroomBullet.DisplayName: Shroom Bullet
+	StardustBullet.DisplayName: Stardust Bullet
+	Woodcrate.DisplayName: Woodcrate
+	Ironcrate.DisplayName: Ironcrate
+	Goldencrate.DisplayName: Goldencrate
+	Pearlwoodcrate.DisplayName: Pearlwoodcrate
+	Mythrilcrate.DisplayName: Mythrilcrate
+	Titaniumcrate.DisplayName: Titaniumcrate
+	Lumicrate.DisplayName: Lumicrate
+	Gaiashot.DisplayName: Gaiashot
+	FrostBurn.DisplayName: Frost Burn
+	CursedBurn.DisplayName: Cursed Burn
+	FlameTest.DisplayName: Flame Test
+	IchorBurn.DisplayName: Ichor Burn
+	ShadowBurn.DisplayName: Shadow Burn
+}

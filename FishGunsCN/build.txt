@@ -1,0 +1,7 @@
+displayName = FishGunsCN
+author = FoxRadish
+version = 0.1
+modReferences = FishGunsPlus
+translationMod = true
+side = Client
+sortAfter = FishGunsPlus

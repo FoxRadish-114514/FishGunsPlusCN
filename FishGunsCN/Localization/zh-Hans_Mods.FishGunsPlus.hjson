@@ -1,0 +1,498 @@
+Items: {
+	CrystalPelter: {
+		DisplayName: 晶澜鲨
+		Tooltip:
+			'''
+			55% 几率不消耗弹药
+			将火枪子弹转化为水晶弹
+			'''
+	}
+
+	FleshRipper: {
+		DisplayName: 破膛鲨
+		Tooltip:
+			'''
+			55% 几率不消耗弹药
+			将火枪子弹转化为灵液弹
+			'''
+	}
+
+	Goldy: {
+		DisplayName: 小金鱼儿
+		Tooltip:
+			'''
+			40% 几率不消耗弹药
+			迈向成功第一步，奴役一条小金鱼
+			'''
+	}
+
+	Luminous: {
+		DisplayName: 鲛月
+		Tooltip:
+			'''
+			60% 几率不消耗弹药
+			诸天的一隅
+			'''
+	}
+
+	SandShredder: {
+		DisplayName: 绞尘鲨
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			放心，它不会乱射沙块
+			'''
+	}
+
+	ScabSplitter: {
+		DisplayName: 裂痂鲨
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			将火枪子弹转化为诅咒弹
+			'''
+	}
+
+	SuperheatedMegashark: {
+		DisplayName: 热荷巨兽鲨
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			将火枪子弹转化为爆破弹
+			'''
+	}
+
+	TheDreadnaut: {
+		DisplayName: 血海之惧
+		Tooltip:
+			'''
+			50％几率不消耗弹药
+			将火枪子弹转化为血弹
+			呃，一股铜锈味儿
+			'''
+	}
+
+	BlastingShark: {
+		DisplayName: 霰鲨爆铳
+		Tooltip: 哦！是虾！
+	}
+
+	VileSpitter: {
+		DisplayName: 痰污鱼
+		Tooltip: 额呜，黏糊糊的…
+	}
+
+	Genesis: {
+		DisplayName: 源鲨 · 皱鳃
+		Tooltip:
+			'''
+			55% 几率不消耗弹药
+			里面究竟塞了多少条鲨鱼？
+			'''
+	}
+
+	ThePerforator: {
+		DisplayName: 腐孔鱼
+		Tooltip: 鲜血从你的胳膊上涌出…
+	}
+
+	StingerFlinger: {
+		DisplayName: 刺毒鲀
+		Tooltip:
+			'''
+			33%几率不消耗弹药
+			将火枪子弹转化为蜜蜂毒刺
+			'''
+	}
+
+	Voyager: {
+		DisplayName: 星航鲸
+		Tooltip:
+			'''
+			60％几率不消耗弹药
+			这个模组有没有让你感到一点鲸喜呢？!
+			'''
+	}
+
+	BoneRattler: {
+		DisplayName: 蚀骨响尾
+		Tooltip: 啊啊啊，它缠在我的胳膊上了啊！
+	}
+
+	FlarefinThrower: {
+		DisplayName: 闪鳍火花
+		Tooltip:
+			'''
+			70%几率不消耗凝胶
+			小心玩火自焚！
+			'''
+	}
+
+	TheArapaima: {
+		DisplayName: 巨骨冲锋鱼
+		Tooltip:
+			'''
+			10％几率不消耗弹药
+			将火枪子弹转化为高速弹
+			'''
+	}
+
+	Leviathan: {
+		DisplayName: 利维坦
+		Tooltip:
+			'''
+			70%几率不消耗凝胶
+			命数已尽，犹未可知
+			'''
+	}
+
+	Bobshot: {
+		DisplayName: 乌贼小短喷
+		Tooltip:
+			'''
+			将火枪子弹转化为弹跳子弹
+			摇来摇去，摆来摆去
+			'''
+	}
+
+	BigBlue: {
+		DisplayName: 靛狂巨鲸
+		Tooltip:
+			'''
+			将火枪子弹转化为高速弹
+			右键开镜
+			'''
+	}
+
+	ThePan: {
+		DisplayName: 月亮鱼
+		Tooltip: 将火枪子弹转化为泡泡弹
+	}
+
+	GoldySupreme: {
+		DisplayName: 金尊千机鱼
+		Tooltip: 第二步，它们要遭殃了！
+	}
+
+	StormSpreader: {
+		DisplayName: 散逸暴风鱼
+		Tooltip: 33％几率发射一组星旋火箭
+	}
+
+	RhokhFhihsh: {
+		DisplayName: 岩璨鱼
+		Tooltip: 50％几率发射一束热能射线
+	}
+
+	Ribbongun: {
+		DisplayName: 缎鳗铳
+		Tooltip:
+			'''
+			50%几率不消耗弹药
+			打得不太准…但是要啥自行车
+			'''
+	}
+
+	RobinRifle: {
+		DisplayName: 来鮄枪
+		Tooltip:
+			'''
+			将火枪子弹转化为高速子弹
+			右键开镜
+			'''
+	}
+
+	MutantNightfish: {
+		DisplayName: 堕幽鱼
+		Tooltip:
+			'''
+			50％几率不消耗弹药
+			如怨如慕，如泣如诉
+			'''
+	}
+
+	LightMachineshark: {
+		DisplayName: 圣耀鲨
+		Tooltip: 55％几率不消耗弹药
+	}
+
+	TrueMutantNightfish: {
+		DisplayName: 暗漩 · 堕幽鱼
+		Tooltip: 50％几率不消耗弹药
+	}
+
+	TrueLightMachineshark: {
+		DisplayName: 苍辉 · 圣耀鲨
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			光芒将照耀它们！
+			'''
+	}
+
+	Gaia: {
+		DisplayName: 盖亚鲸
+		Tooltip:
+			'''
+			50％几率不消耗弹药
+			充盈着泰拉能量的传奇生物！
+			'''
+	}
+
+	PrismachineGun: {
+		DisplayName: 棱彩晶鱼
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			25％几率发射水晶弹
+			'''
+	}
+
+	DukeChainron: {
+		DisplayName: 猪链鱼公爵
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			闻起来像一块培根
+			'''
+	}
+
+	DoubleBarrelCod: {
+		DisplayName: 鳕鱼双管
+		Tooltip: 非常适合用来打青蛙
+	}
+
+	MiniSharkron: {
+		DisplayName: 迷你鲨鱼龙
+		Tooltip: 55%几率不消耗弹药
+	}
+
+	WokeChainron: {
+		DisplayName: 海唤 · 猪链鱼
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			闻起来像一块煎培根
+			'''
+	}
+
+	ButterflyRifle: {
+		DisplayName: 蝶鱼来复枪
+		Tooltip: 它会吐泡泡！
+	}
+
+	Shasta: {
+		DisplayName: 暴谑鱼龙
+		Tooltip: PIU~~
+	}
+
+	Toxicrap: {
+		DisplayName: 毒湮鱼
+		Tooltip: 喷吐毒泡泡
+	}
+
+	FishboneBullet: {
+		DisplayName: 鱼骨弹
+		Tooltip: 碰撞时分裂出三枚骨头
+	}
+
+	GnoseHelmet: {
+		DisplayName: Gnose的头盔
+		Tooltip: 非常适合模仿Gnose！老实说，你怎么获得它的？！
+	}
+
+	GnoseClaws: {
+		DisplayName: Gnose的爪子
+		Tooltip: 非常适合模仿Gnose！老实说，你怎么获得它的？！
+	}
+
+	SpectreBullet: {
+		DisplayName: 幽灵弹
+		Tooltip: 碰撞时分裂出两缕幽魂
+	}
+
+	Spectra: {
+		DisplayName: 冥幽鳍兽
+		Tooltip:
+			'''
+			55％几率不消耗弹药
+			将火枪子弹转化为幽灵弹
+			'''
+	}
+
+	Crapshot: {
+		DisplayName: 石子儿
+		Tooltip: piu~石头弹！
+	}
+
+	BassRifle: {
+		DisplayName: 鲈鱼来复枪
+		Tooltip: 你捉了一条鱼，旅途开始了
+	}
+
+	ShroomBullet: {
+		DisplayName: 蘑菇弹
+		Tooltip: 碰撞时分裂出蘑菇弹幕
+	}
+
+	Tentazooka: {
+		DisplayName: 殒命螺壳
+		Tooltip: 鹦鹉螺火箭？闻所未闻
+	}
+
+	YellowFrogfish: {
+		DisplayName: 黄襞鱼
+		Tooltip:
+			'''
+			榴弹发射鱼
+			慢速但是杀伤力卓越
+			不要炸到你自己了！
+			'''
+	}
+
+	RedFrogfish: {
+		DisplayName: 红襞鱼
+		Tooltip:
+			'''
+			火箭发射鱼
+			慢速但是杀伤力卓越
+			不要炸到你自己了！
+			'''
+	}
+
+	IronCrateLauncher: {
+		DisplayName: 铁匣发射器
+		Tooltip: 发射铁匣
+	}
+
+	WoodenCrateLauncher: {
+		DisplayName: 木匣发射器
+		Tooltip: 发射木匣
+	}
+
+	GoldenCrateLauncher: {
+		DisplayName: 金匣发射器
+		Tooltip: 发射金匣
+	}
+
+	PearlwoodCrateLauncher: {
+		DisplayName: 珍珠木匣发射器
+		Tooltip: 发射珍珠木匣
+	}
+
+	MythrilCrateLauncher: {
+		DisplayName: 秘银匣发射器
+		Tooltip: 发射秘银匣
+	}
+
+	TitaniumCrateLauncher: {
+		DisplayName: 钛金匣发射器
+		Tooltip: 发射钛金匣
+	}
+
+	Crater: {
+		DisplayName: 匣噬
+		Tooltip:
+			'''
+			发射天体匣
+			板条箱发射纪念日
+			'''
+	}
+
+	Bubbler: {
+		DisplayName: 气泡鱼
+		Tooltip: 吐出大量溢出的泡沫
+	}
+
+	FCIBurn: {
+		DisplayName: 焱霜逆戟
+		Tooltip:
+			'''
+			70％几率不消耗凝胶
+			使用暴风雪作为燃料！
+			'''
+	}
+
+	Spitfire: {
+		DisplayName: 脓腐咒焰
+		Tooltip:
+			'''
+			70％几率不消耗凝胶
+			诅咒的狱火即使在水下也能徐徐燃烧
+			'''
+	}
+
+	Goober: {
+		DisplayName: 曳光鱼
+		Tooltip:
+			'''
+			将火枪子弹转化为绿激光
+			闻起来就是一盘烤鱼
+			'''
+	}
+
+	Doober: {
+		DisplayName: 流陨鱼
+		Tooltip:
+			'''
+			40％几率不消耗弹药
+			将火枪子弹转化为流星弹
+			尚存陨星落下时的余温
+			'''
+	}
+
+	BrokenFish: {
+		DisplayName: 石化英雄鲸
+		Tooltip: ""
+	}
+
+	GoldenBlaze: {
+		DisplayName: 血金灵焰
+		Tooltip:
+			'''
+			70％几率不消耗凝胶
+			嗨哥们儿，看这个颜色你该喝水了
+			'''
+	}
+
+	Immolator: {
+		DisplayName: 海豚之祀
+		Tooltip:
+			'''
+			70％几率不消耗凝胶
+			引燃它们的灵魂
+			'''
+	}
+
+	Shadowflame: {
+		DisplayName: 影焰
+		Tooltip: 感觉被诅咒了…
+	}
+}
+
+Projectiles: {
+	FishboneBullet.DisplayName: 鱼骨弹
+	SpectreBullet.DisplayName: 幽灵弹
+	Nightround.DisplayName: 堕幽弹
+	Nightscythe.DisplayName: 堕幽镰
+	Truenightscythe.DisplayName: 暗漩镰
+	Truenightround.DisplayName: 暗漩弹
+	BubbleBullet.DisplayName: 泡泡弹
+	BobbinBullet.DisplayName: 弹跳弹
+	Crapshot.DisplayName: 石子儿
+	ShroomBullet.DisplayName: 蘑菇弹
+	StardustBullet.DisplayName: 星尘爆弹
+	Woodcrate.DisplayName: 木匣
+	Ironcrate.DisplayName: 铁匣
+	Goldencrate.DisplayName: 金匣
+	Pearlwoodcrate.DisplayName: 珍珠木匣
+	Mythrilcrate.DisplayName: 秘银匣
+	Titaniumcrate.DisplayName: 钛金匣
+	Lumicrate.DisplayName: 天体匣
+	Gaiashot.DisplayName: 盖亚能量
+	FrostBurn.DisplayName: 霜焱
+	CursedBurn.DisplayName: 腐咒焰
+	FlameTest.DisplayName: 测试火焰
+	IchorBurn.DisplayName: 金灵焰
+	ShadowBurn.DisplayName: 影祀焰
+}
